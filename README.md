@@ -32,6 +32,17 @@ The key modules of the application include:
 - **User Module**: Handles user-related functionalities such as profile management and password reset.
 - **Security Module**: Configures Spring Security to secure endpoints and enforce access control.
 
+## Images -
+### Home Page -
+![Screenshot (1047)](https://github.com/sandesh300/Blog-App-Backend/assets/92014891/a9091d90-6ed8-430f-9c69-313d950468c2)
+### Sign up Page -
+![Screenshot (1051)](https://github.com/sandesh300/Blog-App-Backend/assets/92014891/31ac3398-9a25-4598-9066-068c6923078c)
+### Login Page - 
+![Screenshot (1054)](https://github.com/sandesh300/Blog-App-Backend/assets/92014891/547f055a-2f0a-49de-aa03-cc8dc7c02116)
+### Create Blog Page -
+![Screenshot (1058)](https://github.com/sandesh300/Blog-App-Backend/assets/92014891/3c3d35ac-ae92-493b-801c-f4223abf96d9)
+### Read Blog Page -
+![Screenshot (1059)](https://github.com/sandesh300/Blog-App-Backend/assets/92014891/db533141-9a17-4e30-8a90-c024a03d0e82)
 
 
 
